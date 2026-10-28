@@ -32,3 +32,5 @@ Production locale vérifiée sur http://127.0.0.1:5174/ : jeu/credits.html/logo/
 ## Public source preparation
 
 For the authorized GitHub push, the tracked catalog now contains null audio paths and unconfirmed public redistribution status. All 40 recordings and the approved local catalog remain on this Mac, ignored by Git, activated through ignored `.env.local`. Public-clone mode uses subtitles/effects without requesting missing MP3s. Previously documented recording playback checks refer to the authorized local installation, not files included in the public Git tree. A new portable catalog test and optional local integrity test replace the mandatory MP3 test.
+
+Copie propre destinée au push : 27 tests portables réussis, test audio privé ignoré ; installation verrouillée, build/TypeScript et formatage réussis. Démarrage navigateur confirmé avec sous-titres et élément voix sans source ; aucune erreur console. Les 40 MP3 restent dans l’installation locale, hors Git. Voir docs/publication.md.
