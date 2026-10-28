@@ -10,4 +10,4 @@ This is a checklist for a future owner-approved action. No repository has been c
 - Check documentation links and run every example/command you advertise. Keep known limitations separate from future work.
 - Choose repository name, owner, visibility, contribution process and support contact with the owner. Creating a GitHub repository, pushing, deploying or selecting paid services requires a separate user instruction.
 
-Generated dialogue MP3s have [separate rights](../public/audio/AUDIO-NOTICE.md). Review public redistribution before release; do not automatically apply a code license to recordings. A source release may omit MP3s by setting catalog files to null while retaining subtitles and honest provenance. Geist remains under SIL OFL 1.1.
+Generated dialogue MP3s have [separate rights](../public/audio/AUDIO-NOTICE.md). The owner authorized inclusion of the 40 existing dialogue MP3s. Do not automatically apply a code license to recordings; retain their separate notice for redistribution. Geist remains under SIL OFL 1.1.

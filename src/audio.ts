@@ -43,12 +43,7 @@ export class AudioManager {
     this.music.loop = true;
     this.music.preload = "none";
     this.voice.preload = "none";
-    this.ready = fetch(
-      base +
-        (import.meta.env.VITE_LOCAL_AUDIO === "1"
-          ? "audio/catalog.local.json"
-          : "audio/catalog.json"),
-    )
+    this.ready = fetch(base + "audio/catalog.json")
       .then((r) => {
         if (!r.ok) throw new Error("catalog");
         return r.json();

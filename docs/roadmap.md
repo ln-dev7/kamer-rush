@@ -24,4 +24,4 @@ This separates working behavior from future ideas. None of the items below is pr
 5. Profile initialization, dynamic mesh count and shadows, then consider spatial scene chunks/LOD.
 6. Decide the project license, review provenance and complete the publication checklist before calling the repository open source.
 
-Cameroonian music is pending compatible rights. Generated voices have separate ElevenLabs conditions; native accent/pronunciation validation remains outstanding.
+Cameroonian music is pending compatible rights. Included voices have owner-confirmed redistribution authorization and separate ElevenLabs conditions; native accent/pronunciation validation remains outstanding.

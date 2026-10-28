@@ -1,7 +1,7 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import * as T from "three";
-import { readFileSync, existsSync } from "node:fs";
+import { readFileSync } from "node:fs";
 import { createHash } from "node:crypto";
 import {
   moveSwept,
@@ -89,34 +89,30 @@ test("select navigation wraps and skips disabled options", () => {
 const catalog = JSON.parse(
   readFileSync("public/audio/catalog.json", "utf8"),
 ) as AudioCatalog;
-test("public catalog works without redistributing generated recordings", () => {
+test("public catalog includes all 40 authorized voices and no music", () => {
   assert.equal(catalog.lines.length, 40);
   assert.equal(catalog.tracks.length, 0);
-  for (const line of catalog.lines) {
-    assert.equal(line.file, null);
-    assert(!approvedLocalAudio(line.file, line.license, "voices"));
-  }
+  for (const line of catalog.lines)
+    assert(approvedLocalAudio(line.file, line.license, "voices"));
 });
-test(
-  "optional local recordings match their casting hashes",
-  { skip: !existsSync("public/audio/catalog.local.json") },
-  () => {
-    const local = JSON.parse(
-      readFileSync("public/audio/catalog.local.json", "utf8"),
-    ) as AudioCatalog;
-    const hashes = new Set();
-    assert.equal(local.lines.length, 40);
-    for (const line of local.lines) {
-      assert(approvedLocalAudio(line.file, line.license, "voices"));
-      const hash = createHash("sha256")
-        .update(readFileSync("public/" + line.file))
-        .digest("hex");
-      assert.equal(hash, (line as any).sha256);
-      hashes.add(hash);
-    }
-    assert.equal(hashes.size, 40);
-  },
-);
+test("distributed recordings match the original casting hashes", () => {
+  const casting = JSON.parse(
+    readFileSync("docs/audio-manifest.json", "utf8"),
+  ) as { id: string; text: string; sha256: string }[];
+  const hashes = new Set();
+  for (const line of catalog.lines) {
+    const row = casting.find((r) => r.id === line.id)!;
+    assert(row);
+    assert.equal(row.text, line.text);
+    const hash = createHash("sha256")
+      .update(readFileSync("public/" + line.file))
+      .digest("hex");
+    assert.equal(hash, row.sha256);
+    assert.equal(hash, (line as any).sha256);
+    hashes.add(hash);
+  }
+  assert.equal(hashes.size, 40);
+});
 test("voice director enforces one voice, cooldown and no fictional mechanics", () => {
   const lines = catalog.lines.map((l) => ({ ...l }));
   const d = new VoiceDirector(lines);

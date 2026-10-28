@@ -1,16 +1,14 @@
-# Kamer Rush — voix synthétiques
+# Kamer Rush — synthetic dialogue recordings
 
-40 répliques originales, générées le 28 octobre 2026 avec ElevenLabs Text to Speech, modèle Eleven v3, pendant l'abonnement Creator de LN. Chaque fichier correspond à une seule réplique ; la correspondance exacte et les empreintes SHA-256 figurent dans manifest.json.
+40 original game lines generated with ElevenLabs Text to Speech, Eleven v3, on 28 October 2026. The project owner explicitly confirmed their rights and authorized redistribution in this repository on that date. Exact text, IDs, voices, durations and SHA-256 hashes: [casting manifest](../../docs/audio-manifest.json).
 
-Casting : Ali Alioum (motoman énergique), Alimata — Professional and Welcoming (interactions chaleureuses), Jérôme — Confident, Clear and Proud (taximan assuré), Tony — Warm, Dynamic Podcast Narrator (circulation et prises en charge). Dix fichiers par voix. La bibliothèque les étiquette French / Africain. Cela ne constitue pas une certification d'accent camerounais : aucune validation auditive de l'accent ou de la prononciation n'a été réalisée par l'agent. Aucun clonage de personne ni imitation de célébrité n'a été créé pour cette tâche.
+Casting: Ali Alioum, Alimata — Professional and Welcoming, Jérôme — Confident, Clear and Proud, and Tony — Warm, Dynamic Podcast Narrator, ten files per voice. Labels describe French/African voices; native Cameroonian accent/pronunciation has not been certified. These are synthetic outputs, not an endorsement or live performance by the voice creators. No celebrity imitation or voice clone was created for this task.
 
-Les crédits du jeu peuvent mentionner : « Voix de synthèse : ElevenLabs ; casting : Ali Alioum, Alimata, Jérôme et Tony. Textes et mise en scène : Kamer Rush. » Ne pas présenter ces personnes comme ayant joué ou recommandé le jeu.
+Suggested credit: “Synthetic voices: ElevenLabs; casting: Ali Alioum, Alimata, Jérôme and Tony. Original texts and scene direction: Kamer Rush.”
 
-## Droits distincts du code
+## Rights separate from code
 
-Ces fichiers audio ne sont pas automatiquement couverts par la licence MIT du code. Ils sont fournis pour l'intégration à Kamer Rush, conformément aux conditions ElevenLabs applicables au compte, au modèle et aux voix. Cette notice ne crée pas de licence ouverte supplémentaire et ne garantit pas des droits illimités à tous les destinataires d'un dépôt public. Ne pas redistribuer les modèles de voix ni utiliser les fichiers pour reproduire une personne ou entraîner un modèle concurrent. Examiner ces conditions avant une redistribution autonome des enregistrements ou un changement de licence.
-
-Les conditions générales consultées autorisent l'exploitation commerciale des sorties créées sous abonnement payant et leur utilisation hors du service, sous réserve des autres conditions et des droits nécessaires. L'addendum bibliothèque indique que les sorties déjà générées peuvent rester utilisables après le retrait d'une voix. Aucune condition particulière supplémentaire ni tarif personnalisé n'a été présenté lors de la sélection des quatre voix. Aucune nouvelle acceptation explicite de contrat, achat, souscription, clé API ou clonage n'a été effectué.
+Recordings are included under the owner’s explicit authorization and remain subject to applicable ElevenLabs output terms and relevant rights. This notice does not place them automatically under the project's future code license, grant a new unrestricted open-source audio license, or redistribute the underlying voice models. Do not use recordings to reproduce a person or train a competing model. The code license remains undecided. No account details, usage balances, API credentials or private download locations are included.
 
 Sources officielles consultées le 28 octobre 2026 :
 

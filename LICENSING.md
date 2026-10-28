@@ -6,4 +6,4 @@ Before publication, the owner must choose and approve a license, confirm ownersh
 
 Third-party components retain their own licenses. Their notices are preserved in `licenses/`. Private user-provided reference images are not project assets and must not be redistributed by default.
 
-Generated dialogue MP3s have [separate rights](public/audio/AUDIO-NOTICE.md). Review public redistribution before release; do not automatically apply a code license to recordings. A source release may omit MP3s by setting catalog files to null while retaining subtitles and honest provenance. Geist remains under SIL OFL 1.1.
+Generated dialogue MP3s have [separate rights](public/audio/AUDIO-NOTICE.md). The owner authorized inclusion of the 40 existing dialogue MP3s. Do not automatically apply a code license to recordings; retain their separate notice for redistribution. Geist remains under SIL OFL 1.1.

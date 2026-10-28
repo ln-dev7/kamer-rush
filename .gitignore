@@ -19,8 +19,7 @@ reference/
 playwright/.auth/
 *.save.json
 
-# Generated recordings: local use only, redistribution pending review
-public/audio/voices/
+# Local-only catalogs and unapproved music stay private
 public/audio/music/
 public/audio/catalog.local.json
 *.zip

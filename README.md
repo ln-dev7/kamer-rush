@@ -38,7 +38,7 @@ npm run format:check
 - Six passenger missions, playable with the motorcycle or taxi; the bicycle is for exploration. The first is a short introduction; later destinations cross sectors. Time, comfort and successful arrival determine reputation and earnings.
 - Moving pedestrians on constrained sidewalk segments, taxis and delivery trucks on predetermined traffic loops. Trucks are scenery/traffic, not controllable vehicles.
 - An original rectangular local minimap using the same street widths and collision footprints as the world, a smooth heading rotation, north marker, current objective and parked vehicle icons; `M` opens the whole city map.
-- Pause, retry, next mission, local progression, optional synthesized effects, 40 original dialogue texts with subtitles and optional local generated recordings, custom accessible settings and three quality settings. The UI uses official Lucide SVG icons.
+- Pause, retry, next mission, local progression, optional synthesized effects, 40 original dialogue texts with subtitles and included ElevenLabs-generated recordings, custom accessible settings and three quality settings. The UI uses official Lucide SVG icons.
 
 Walking and cycling currently support exploration and vehicle switching. Passenger transport requires a motorcycle or taxi; there are no separate walking missions.
 
@@ -83,8 +83,8 @@ Totals are stored only in browser `localStorage` under `kamer-rush-v1`. They bel
 - [Dependency and asset provenance](THIRD_PARTY.md), [dependency inventory](THIRD_PARTY_DEPENDENCIES.json)
 - [License decision](LICENSING.md) and [publication checklist](docs/releasing.md)
 
-World geometry, maps and synthesized effects are procedural; optional local dialogue MP3s were generated with ElevenLabs under the owner’s paid subscription, have separate rights and are excluded from the public repository; the brand logo and promotional illustration are AI-generated, with preserved originals and provenance. Private reference screenshots are excluded from distribution and version control. No code, texture, model, map, HUD or music from reference games is bundled.
+World geometry, maps and synthesized effects are procedural; dialogue MP3s were generated with ElevenLabs and included with the owner’s explicit redistribution authorization; they retain rights separate from the code; the brand logo and promotional illustration are AI-generated, with preserved originals and provenance. Private reference screenshots are excluded from distribution and version control. No code, texture, model, map, HUD or music from reference games is bundled.
 
-## Optional local voice recordings
+## Included voice recordings
 
-The public clone includes subtitles and synthesized effects. Generated MP3s and their local catalog are deliberately excluded while public redistribution rights remain unconfirmed. The existing Mac installation retains its authorized recordings; see [optional setup and release precautions](docs/audio.md#optional-local-installation). No recording download or ElevenLabs account is required to play the public source version.
+A clone includes all 40 generated dialogue MP3s, activated by default after you enable sound. No ElevenLabs account, API key, local catalog or environment flag is needed. Subtitles remain independently available. See [audio integration and provenance](docs/audio.md) and the [separate audio notice](public/audio/AUDIO-NOTICE.md). No third-party music is included.

@@ -62,4 +62,4 @@ Shore reproduction: choose “Un jardin pour souffler”, explore without a clie
 
 Final delivery checks ran again in the delivered checkout: locked clean install, production build, 27 tests and formatting passed. The rebuilt 5174 production origin served all 40 clips with matching hashes; real greeting playback was confirmed. Welcome, settings, credits, portrait 390×844 and landscape 844×390 were inspected, and pointer-held accelerator/brake worked. A final landscape spacing correction was rebuilt and visually verified. No browser error/warning logs were observed in that production session. No physical-phone or accent certification is inferred.
 
-Public-source change: tests now support a clone with no recording files. The public catalog test always runs; the local recording-integrity test is skipped when the ignored local catalog is absent. Local recording evidence above describes the private Mac installation.
+All 28 tests now run in a clean public clone, including metadata and hashes for the 40 included owner-authorized recordings. No private audio fixture or environment flag is required.
