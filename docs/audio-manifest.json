@@ -1,0 +1,682 @@
+[
+  {
+    "id": "GREET_01",
+    "text": "C’est comment, collègue ?",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "GREET_01__ali-alioum__eleven-v3.mp3",
+    "voice": "Ali Alioum",
+    "voice_id": "0A3E10Jixa9t7sGTSjr7",
+    "bytes": 36581,
+    "sha256": "a050a0a9ebba8f2bdd7e86681e79788aa083e91e56f2ff1b0f72373b13be8294",
+    "duration_seconds": 1.22775,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "GREET_02",
+    "text": "Bonjour ! Bonne route !",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "GREET_02__alimata__eleven-v3.mp3",
+    "voice": "Alimata - Professional and Welcoming",
+    "voice_id": "4SFJvuIUvxaPLgk8FoK3",
+    "bytes": 50791,
+    "sha256": "389830ea6bfb52995feaece3bd7aa3c4e76d9c8dfaa4542834cc4803abecc76e",
+    "duration_seconds": 2.115875,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "GREET_03",
+    "text": "Combi, ça roule ?",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "GREET_03__ali-alioum__eleven-v3.mp3",
+    "voice": "Ali Alioum",
+    "voice_id": "0A3E10Jixa9t7sGTSjr7",
+    "bytes": 47030,
+    "sha256": "9e9105f9a585be105aae9c6cb1c0ad09de982dfee824d364fc54c7cf3fee0c43",
+    "duration_seconds": 1.880813,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "GREET_04",
+    "text": "On est là, on travaille !",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "GREET_04__jerome__eleven-v3.mp3",
+    "voice": "Jérôme - Confident, Clear and Proud",
+    "voice_id": "YwEKgPNrswweXodAZi29",
+    "bytes": 40760,
+    "sha256": "19e6a10b8e2fc7e11eae62360517e01cc9e32a240c6172596651b7328fec1874",
+    "duration_seconds": 1.488938,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "PASS_01",
+    "text": "Laisse-moi un peu de place, pardon.",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "PASS_01__alimata__eleven-v3.mp3",
+    "voice": "Alimata - Professional and Welcoming",
+    "voice_id": "4SFJvuIUvxaPLgk8FoK3",
+    "bytes": 48283,
+    "sha256": "52f251ee28bdd91884dba2c84aa3dc33601c3a024de73c2092371f5075d83a49",
+    "duration_seconds": 1.959125,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "PASS_02",
+    "text": "Doucement, je suis à côté !",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "PASS_02__ali-alioum__eleven-v3.mp3",
+    "voice": "Ali Alioum",
+    "voice_id": "0A3E10Jixa9t7sGTSjr7",
+    "bytes": 49537,
+    "sha256": "27a77800abc2989c227a1598369060da057d981c1308767a59f4a2c635df29cc",
+    "duration_seconds": 2.0375,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "PASS_03",
+    "text": "Vas-y, je te laisse passer.",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "PASS_03__alimata__eleven-v3.mp3",
+    "voice": "Alimata - Professional and Welcoming",
+    "voice_id": "4SFJvuIUvxaPLgk8FoK3",
+    "bytes": 44522,
+    "sha256": "1a9069cbab1f1bca22222dc5bde25f360b182bc662d8822d28c1f8687f37402a",
+    "duration_seconds": 1.724063,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "PASS_04",
+    "text": "Tu passes ou tu stationnes ?",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "PASS_04__jerome__eleven-v3.mp3",
+    "voice": "Jérôme - Confident, Clear and Proud",
+    "voice_id": "YwEKgPNrswweXodAZi29",
+    "bytes": 40760,
+    "sha256": "fb190e28aa3f81091fcc7750ae19aa3e758abf1915696deef19d7ffd17afaf0c",
+    "duration_seconds": 1.488938,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "HORN_01",
+    "text": "Oui, j’ai entendu !",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "HORN_01__tony__eleven-v3.mp3",
+    "voice": "Tony - Warm, Dynamic Podcast Narrator",
+    "voice_id": "M4ZqLOXSFqxSkn9RDxFO",
+    "bytes": 31565,
+    "sha256": "7a71eccd0249ef219e865c4e62cf008280eb62791b8b7c1d11aa022b7f6ae8cd",
+    "duration_seconds": 0.91425,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "HORN_02",
+    "text": "Pardon, laisse-moi finir ma manœuvre.",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "HORN_02__jerome__eleven-v3.mp3",
+    "voice": "Jérôme - Confident, Clear and Proud",
+    "voice_id": "YwEKgPNrswweXodAZi29",
+    "bytes": 47030,
+    "sha256": "14f77a2de5437faed08967b48c3a53bd07370a90e46fadef383f67c0d5f3537b",
+    "duration_seconds": 1.880813,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "HORN_03",
+    "text": "Le klaxon ne va pas ouvrir la route !",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "HORN_03__jerome__eleven-v3.mp3",
+    "voice": "Jérôme - Confident, Clear and Proud",
+    "voice_id": "YwEKgPNrswweXodAZi29",
+    "bytes": 47030,
+    "sha256": "2dab637c7a4bbe712d2f22355e9eaecdc4fdaf052e0aa7a853729d9b4e9e1f48",
+    "duration_seconds": 1.880813,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "NEAR_01",
+    "text": "Hé, regarde devant !",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "NEAR_01__ali-alioum__eleven-v3.mp3",
+    "voice": "Ali Alioum",
+    "voice_id": "0A3E10Jixa9t7sGTSjr7",
+    "bytes": 44522,
+    "sha256": "bce9c5e003984657cd93ed1ed46914c0fc6765246c4b5e336d05e81bf2cf3039",
+    "duration_seconds": 1.724063,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "NEAR_02",
+    "text": "Gars, tu m’as frôlé !",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "NEAR_02__ali-alioum__eleven-v3.mp3",
+    "voice": "Ali Alioum",
+    "voice_id": "0A3E10Jixa9t7sGTSjr7",
+    "bytes": 45776,
+    "sha256": "fca789bd133a3b7262abf66f95492b5658719967b2120f47282833e85279393d",
+    "duration_seconds": 1.802438,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "NEAR_03",
+    "text": "Doucement, on transporte des gens !",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "NEAR_03__jerome__eleven-v3.mp3",
+    "voice": "Jérôme - Confident, Clear and Proud",
+    "voice_id": "YwEKgPNrswweXodAZi29",
+    "bytes": 43268,
+    "sha256": "2ee28d78eb29ab712eae9e71f2734fe501a09874bcf140c7b49de84d99c0c841",
+    "duration_seconds": 1.645688,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "NEAR_04",
+    "text": "Tu m’as vu, au moins ?",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "NEAR_04__tony__eleven-v3.mp3",
+    "voice": "Tony - Warm, Dynamic Podcast Narrator",
+    "voice_id": "M4ZqLOXSFqxSkn9RDxFO",
+    "bytes": 27803,
+    "sha256": "480f7622d398b6c06b1e44eba3d36e688d4726f0885738b9db4b5672131f3fea",
+    "duration_seconds": 0.679125,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "NEAR_05",
+    "text": "On est pressés, pas en compétition !",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "NEAR_05__tony__eleven-v3.mp3",
+    "voice": "Tony - Warm, Dynamic Podcast Narrator",
+    "voice_id": "M4ZqLOXSFqxSkn9RDxFO",
+    "bytes": 47030,
+    "sha256": "52752f2200716b4f703e4cbc56a1bfce32501ccc46083d3d3aa0dba643ae5d2a",
+    "duration_seconds": 1.880813,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "BUMP_01",
+    "text": "Tu as touché ma voiture !",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "BUMP_01__jerome__eleven-v3.mp3",
+    "voice": "Jérôme - Confident, Clear and Proud",
+    "voice_id": "YwEKgPNrswweXodAZi29",
+    "bytes": 36581,
+    "sha256": "88f56eb776bba9ea74ccd16ba86b8edbf82c5b58c122e3a6c86698864af91158",
+    "duration_seconds": 1.22775,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "BUMP_02",
+    "text": "Hé, mon guidon !",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "BUMP_02__ali-alioum__eleven-v3.mp3",
+    "voice": "Ali Alioum",
+    "voice_id": "0A3E10Jixa9t7sGTSjr7",
+    "bytes": 39506,
+    "sha256": "ce049e0e6710117f646bbfdba5942141328fc74ca859adeda6b0a7b6ec90490b",
+    "duration_seconds": 1.410563,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "BUMP_03",
+    "text": "Pardon, j’ai mal calculé.",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "BUMP_03__alimata__eleven-v3.mp3",
+    "voice": "Alimata - Professional and Welcoming",
+    "voice_id": "4SFJvuIUvxaPLgk8FoK3",
+    "bytes": 48283,
+    "sha256": "0962a0844ca8248201c1d72a6496fb80403473572123a2fa69fddde71fd556ae",
+    "duration_seconds": 1.959125,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "BUMP_04",
+    "text": "Assia. Tu n’as rien ?",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "BUMP_04__alimata__eleven-v3.mp3",
+    "voice": "Alimata - Professional and Welcoming",
+    "voice_id": "4SFJvuIUvxaPLgk8FoK3",
+    "bytes": 45776,
+    "sha256": "96b2815db2e3505f9aa96877e4daebf4b9d9d2b6ed5805bb919411307f81b7ef",
+    "duration_seconds": 1.802438,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "BUMP_05",
+    "text": "On se gare et on regarde.",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "BUMP_05__jerome__eleven-v3.mp3",
+    "voice": "Jérôme - Confident, Clear and Proud",
+    "voice_id": "YwEKgPNrswweXodAZi29",
+    "bytes": 42014,
+    "sha256": "1c5346c54c4fce01aa5e5edd0af7fead8faf399bd9a2ee0e6fadbd585d7f717f",
+    "duration_seconds": 1.567313,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "PICKUP_01",
+    "text": "Tu vas où ?",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "PICKUP_01__alimata__eleven-v3.mp3",
+    "voice": "Alimata - Professional and Welcoming",
+    "voice_id": "4SFJvuIUvxaPLgk8FoK3",
+    "bytes": 35327,
+    "sha256": "3cebcc92813ba6ad3db3351525b395d98d4fcd1fc4bf68b871a989cda2acbdd1",
+    "duration_seconds": 1.149375,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "PICKUP_02",
+    "text": "C’est quel carrefour ?",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "PICKUP_02__tony__eleven-v3.mp3",
+    "voice": "Tony - Warm, Dynamic Podcast Narrator",
+    "voice_id": "M4ZqLOXSFqxSkn9RDxFO",
+    "bytes": 31565,
+    "sha256": "41fdc41389cf943bcd6f7c636fb0b74a5a504247f77aad4535cc80cee6aeb460",
+    "duration_seconds": 0.91425,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "PICKUP_03",
+    "text": "Tu proposes combien ?",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "PICKUP_03__tony__eleven-v3.mp3",
+    "voice": "Tony - Warm, Dynamic Podcast Narrator",
+    "voice_id": "M4ZqLOXSFqxSkn9RDxFO",
+    "bytes": 34073,
+    "sha256": "4e9892256997cd6527ea773c87ef4478a99182b9d15fe4f3520de2d4e6ca247a",
+    "duration_seconds": 1.071,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "PICKUP_04",
+    "text": "C’est pour un dépôt ?",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "PICKUP_04__jerome__eleven-v3.mp3",
+    "voice": "Jérôme - Confident, Clear and Proud",
+    "voice_id": "YwEKgPNrswweXodAZi29",
+    "bytes": 31565,
+    "sha256": "34ed5a10019898a4dc35746182e7be38f2673b398f650057b0f45bb78ab863c2",
+    "duration_seconds": 0.91425,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "PICKUP_05",
+    "text": "Attends que je m’arrête.",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "PICKUP_05__tony__eleven-v3.mp3",
+    "voice": "Tony - Warm, Dynamic Podcast Narrator",
+    "voice_id": "M4ZqLOXSFqxSkn9RDxFO",
+    "bytes": 34073,
+    "sha256": "8c616689da690d2b74843223da4564a92c747aeeea17ec6a5380d16b910c875a",
+    "duration_seconds": 1.071,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "PICKUP_06",
+    "text": "Le casque d’abord, et on part.",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "PICKUP_06__ali-alioum__eleven-v3.mp3",
+    "voice": "Ali Alioum",
+    "voice_id": "0A3E10Jixa9t7sGTSjr7",
+    "bytes": 57061,
+    "sha256": "42c7798db9fb343ccf5a2945b214c03429e1a9d4da06943678f5e90064fd6a32",
+    "duration_seconds": 2.50775,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "DROP_01",
+    "text": "C’est ici que tu descends ?",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "DROP_01__tony__eleven-v3.mp3",
+    "voice": "Tony - Warm, Dynamic Podcast Narrator",
+    "voice_id": "M4ZqLOXSFqxSkn9RDxFO",
+    "bytes": 31565,
+    "sha256": "fe2522ddbc9aaa53acd033cee0daf8da267f5a5cf12666c64826d15ce9ffcb6e",
+    "duration_seconds": 0.91425,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "DROP_02",
+    "text": "Voilà ton arrêt.",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "DROP_02__alimata__eleven-v3.mp3",
+    "voice": "Alimata - Professional and Welcoming",
+    "voice_id": "4SFJvuIUvxaPLgk8FoK3",
+    "bytes": 35327,
+    "sha256": "173cb131584621754b0db1a435a6b5bb11e2914763a466fc0eb9fa95c05075d2",
+    "duration_seconds": 1.149375,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "DROP_03",
+    "text": "Attends, je me range.",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "DROP_03__jerome__eleven-v3.mp3",
+    "voice": "Jérôme - Confident, Clear and Proud",
+    "voice_id": "YwEKgPNrswweXodAZi29",
+    "bytes": 39506,
+    "sha256": "bbb357973c31d9a539c3db94032b368d4b95ea836a3c80cd32532518845041f9",
+    "duration_seconds": 1.410563,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "DROP_04",
+    "text": "Attends ta monnaie.",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "DROP_04__tony__eleven-v3.mp3",
+    "voice": "Tony - Warm, Dynamic Podcast Narrator",
+    "voice_id": "M4ZqLOXSFqxSkn9RDxFO",
+    "bytes": 27803,
+    "sha256": "6ba73014d0bd00b875f1e691ebdf957a8e4449d97aa60b74b4dd9b0d6a149a28",
+    "duration_seconds": 0.679125,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "THANKS_01",
+    "text": "Merci, tu m’as arrangé !",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "THANKS_01__alimata__eleven-v3.mp3",
+    "voice": "Alimata - Professional and Welcoming",
+    "voice_id": "4SFJvuIUvxaPLgk8FoK3",
+    "bytes": 48283,
+    "sha256": "ae02aff364a0685f1dd8968ff20a3b7aa50f868fcf8dde9501bd05e55b7c462e",
+    "duration_seconds": 1.959125,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "THANKS_02",
+    "text": "Merci, bonne route !",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "THANKS_02__alimata__eleven-v3.mp3",
+    "voice": "Alimata - Professional and Welcoming",
+    "voice_id": "4SFJvuIUvxaPLgk8FoK3",
+    "bytes": 39506,
+    "sha256": "577677794638972fb2a689b9ad780f79cf42583ccd732e25c0cea9f552606355",
+    "duration_seconds": 1.410563,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "THANKS_03",
+    "text": "On est ensemble, hein !",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "THANKS_03__ali-alioum__eleven-v3.mp3",
+    "voice": "Ali Alioum",
+    "voice_id": "0A3E10Jixa9t7sGTSjr7",
+    "bytes": 37834,
+    "sha256": "d5f5e1d64d52dea8b2d0a002d1f987c1d39f8ca6fa87bf2a0e26abbafd7ac677",
+    "duration_seconds": 1.306063,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "JAM_01",
+    "text": "Ça bloque jusqu’au carrefour.",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "JAM_01__jerome__eleven-v3.mp3",
+    "voice": "Jérôme - Confident, Clear and Proud",
+    "voice_id": "YwEKgPNrswweXodAZi29",
+    "bytes": 45776,
+    "sha256": "598bff30c305a6d56065aba1c0fcc5fe531d9fcdbcc0c9c97a781f36c8d8d70f",
+    "duration_seconds": 1.802438,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "JAM_02",
+    "text": "Un par un, on va tous passer.",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "JAM_02__alimata__eleven-v3.mp3",
+    "voice": "Alimata - Professional and Welcoming",
+    "voice_id": "4SFJvuIUvxaPLgk8FoK3",
+    "bytes": 50791,
+    "sha256": "89363d32f7f6c935e224959bcaee2826de7a14f7cae0f8f05c96e84ca9889a94",
+    "duration_seconds": 2.115875,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "JAM_03",
+    "text": "Le feu est vert, on avance !",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "JAM_03__tony__eleven-v3.mp3",
+    "voice": "Tony - Warm, Dynamic Podcast Narrator",
+    "voice_id": "M4ZqLOXSFqxSkn9RDxFO",
+    "bytes": 45776,
+    "sha256": "d181390d12746b8f788edd700ba27b01bf845862656520e576183bdf3a1c1f81",
+    "duration_seconds": 1.802438,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "JAM_04",
+    "text": "On va dormir ici ou quoi ?",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "JAM_04__ali-alioum__eleven-v3.mp3",
+    "voice": "Ali Alioum",
+    "voice_id": "0A3E10Jixa9t7sGTSjr7",
+    "bytes": 48283,
+    "sha256": "91ac32a3b29b2538803f3fc12824664aa4e5fd912e05b4b5563a24214aea2581",
+    "duration_seconds": 1.959125,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "JAM_05",
+    "text": "Ce carrefour teste la patience !",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "JAM_05__tony__eleven-v3.mp3",
+    "voice": "Tony - Warm, Dynamic Podcast Narrator",
+    "voice_id": "M4ZqLOXSFqxSkn9RDxFO",
+    "bytes": 50791,
+    "sha256": "1aab9220860092de1cdff11a1224a13f2ac46124750b94a38842ab6ef31dc873",
+    "duration_seconds": 2.115875,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  },
+  {
+    "id": "JAM_06",
+    "text": "Même le mapan est bouché aujourd’hui !",
+    "status": "downloaded",
+    "model": "eleven_v3",
+    "file": "JAM_06__ali-alioum__eleven-v3.mp3",
+    "voice": "Ali Alioum",
+    "voice_id": "0A3E10Jixa9t7sGTSjr7",
+    "bytes": 57061,
+    "sha256": "6dd5b3bcac1286c488703a6dd438ea74d4bcce4755424b3e73c2c89e3325139e",
+    "duration_seconds": 2.50775,
+    "audio_stream": {
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1
+    }
+  }
+]

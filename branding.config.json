@@ -1,0 +1,18 @@
+{
+  "name": "Kamer Rush",
+  "title": "Kamer Rush · La ville t’appartient.",
+  "description": "Explore les rues, prends le guidon ou le volant et construis ta réputation au fil des missions. À pied, à vélo, en moto ou en taxi dans une ville fictive inspirée de Douala.",
+  "locale": "fr_CM",
+  "themeColor": "#132f2c",
+  "imageAlt": "Kamer Rush — La ville t’appartient. Exploration urbaine à pied, à vélo, en moto et en taxi.",
+  "assets": {
+    "logo": "branding/kamer-rush-logo.png",
+    "og": "branding/kamer-rush-og.png",
+    "favicon32": "branding/favicon-32.png",
+    "icon192": "branding/icon-192.png",
+    "icon512": "branding/icon-512.png",
+    "apple180": "branding/apple-touch-icon.png",
+    "logoUi": "branding/kamer-rush-logo-128.png",
+    "faviconIco": "branding/favicon.ico"
+  }
+}

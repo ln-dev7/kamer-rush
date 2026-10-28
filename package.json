@@ -1,0 +1,33 @@
+{
+  "name": "kamer-rush",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build",
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "preview": "vite preview --host 127.0.0.1",
+    "format": "prettier --write src tests docs tooling *.md *.json *.html assets/branding/*.json vite.config.ts",
+    "format:check": "prettier --check src tests docs tooling *.md *.json *.html assets/branding/*.json vite.config.ts",
+    "brand:export": "node tooling/export-branding.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/geist": "^5.3.0",
+    "lucide": "^1.63.0",
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "@types/three": "^0.183.1",
+    "prettier": "^3.9.10",
+    "tsx": "^4.20.6",
+    "typescript": "~5.9.3",
+    "vite": "6.4.5"
+  },
+  "description": "An original local urban exploration and taxi mission prototype.",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=20.15.0"
+  }
+}

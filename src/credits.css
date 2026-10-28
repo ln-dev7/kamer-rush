@@ -1,0 +1,127 @@
+:root {
+  font-family: "Geist Variable", Arial, sans-serif;
+  color: #f4ebd1;
+  background: #102e28;
+  font-synthesis: none;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+a {
+  color: #f2cb69;
+  text-underline-offset: 4px;
+}
+.credits-header {
+  max-width: 1080px;
+  margin: auto;
+  padding: 26px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  border-bottom: 1px solid #ffffff18;
+}
+.credits-brand {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  font-weight: 750;
+  color: #f4ebd1;
+  text-decoration: none;
+}
+.credits-brand img {
+  padding: 4px;
+  border-radius: 10px;
+  background: #fff1cf;
+}
+.return-link {
+  font-size: 13px;
+}
+.credits-document {
+  max-width: 860px;
+  padding: 60px 30px 90px;
+  margin: auto;
+}
+.ui-eyebrow {
+  font-size: 10px;
+  color: #e6be59;
+  font-weight: 650;
+  letter-spacing: 2px;
+}
+.credits-intro h2 {
+  font-size: clamp(32px, 5vw, 48px);
+  letter-spacing: -0.05em;
+  margin: 14px 0 20px;
+}
+.credits-intro > p {
+  font-size: 17px;
+  line-height: 1.7;
+  color: #b7c7b9;
+  max-width: 620px;
+}
+.credit-section {
+  border-top: 1px solid #ffffff18;
+  padding: 25px 0;
+  margin-top: 22px;
+}
+.credit-section h3 {
+  font-size: 19px;
+  margin: 0 0 16px;
+  letter-spacing: -0.025em;
+}
+.credit-section p {
+  font-size: 14px;
+  line-height: 1.8;
+  color: #c7d1bd;
+}
+.credit-status {
+  border: 1px solid #ebc45936;
+  border-radius: 10px;
+  background: #e0b94e09;
+  padding: 15px 18px;
+}
+.credit-section article {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 12px 0;
+  padding: 18px;
+  border: 1px solid #ffffff16;
+  border-radius: 10px;
+}
+.credit-section article span,
+.credit-section small {
+  font-size: 12px;
+  color: #bdccb8;
+}
+.credit-section a {
+  font-size: 12px;
+}
+.credit-section summary {
+  font-size: 13px;
+  cursor: pointer;
+  padding: 10px 0;
+}
+.credit-section li {
+  padding: 7px 0;
+}
+a:focus-visible,
+summary:focus-visible {
+  outline: 2px solid #f2cb69;
+  outline-offset: 6px;
+  border-radius: 4px;
+}
+@media (max-width: 600px) {
+  .credits-header {
+    padding: 20px;
+  }
+  .credits-document {
+    padding: 36px 20px;
+  }
+  .credits-intro > p {
+    font-size: 15px;
+  }
+}

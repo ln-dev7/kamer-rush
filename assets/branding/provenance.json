@@ -1,0 +1,56 @@
+{
+  "generation": "AI-generated artwork supplied by the owner through the parent task on 2026-10-28",
+  "purpose": "Original Kamer Rush branding. OG art is a promotional illustration, not a gameplay screenshot.",
+  "licenseStatus": "Original project/branding license not yet selected; no implicit MIT grant.",
+  "transforms": "Source files unchanged. Logo alpha-bounds crop with transparent padding and Lanczos resampling. Apple icon uses cream background. OG uses contain resize plus at most a narrow background pad, never stretching or text cropping. No vector tracing.",
+  "sources": [
+    {
+      "file": "assets/branding/originals/kamer-rush-logo.png",
+      "sha256": "bd3045b90adb870df51b02046898cfb8cd0284a14b1f5f2d2dce8254923e1172",
+      "properties": "1254x1254; srgba 4.0; opaque=False"
+    },
+    {
+      "file": "assets/branding/originals/kamer-rush-og-art.png",
+      "sha256": "cc0903df1068b5d929fe2f60784f65a622225a8f1adbff7aecf4399e8191c5f5",
+      "properties": "1730x909; srgb  3.0; opaque=True"
+    }
+  ],
+  "exports": [
+    {
+      "file": "public/branding/kamer-rush-logo.png",
+      "properties": "1024x1024; srgba 4.0; opaque=False"
+    },
+    {
+      "file": "public/branding/kamer-rush-logo-128.png",
+      "properties": "128x128; srgba 4.0; opaque=False"
+    },
+    {
+      "file": "public/branding/favicon-16.png",
+      "properties": "16x16; srgba 4.0; opaque=False"
+    },
+    {
+      "file": "public/branding/favicon-32.png",
+      "properties": "32x32; srgba 4.0; opaque=False"
+    },
+    {
+      "file": "public/branding/icon-192.png",
+      "properties": "192x192; srgba 4.0; opaque=False"
+    },
+    {
+      "file": "public/branding/icon-512.png",
+      "properties": "512x512; srgba 4.0; opaque=False"
+    },
+    {
+      "file": "public/branding/apple-touch-icon.png",
+      "properties": "180x180; srgb  3.0; opaque=True"
+    },
+    {
+      "file": "public/branding/kamer-rush-og.png",
+      "properties": "1200x630; srgb  3.0; opaque=True"
+    },
+    {
+      "file": "public/branding/favicon.ico",
+      "properties": "64x64; srgba 4.0; opaque=False48x48; srgba 4.0; opaque=False32x32; srgba 4.0; opaque=False16x16; srgba 4.0; opaque=False"
+    }
+  ]
+}

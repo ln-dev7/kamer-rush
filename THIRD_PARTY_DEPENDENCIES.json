@@ -1,0 +1,242 @@
+[
+  {
+    "name": "@dimforge/rapier3d-compat",
+    "version": "0.12.0",
+    "license": "Apache-2.0",
+    "package": "node_modules/@dimforge/rapier3d-compat/package.json",
+    "notices": ["licenses/dimforge-rapier3d-compat-LICENSE.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "@esbuild/darwin-arm64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "package": "node_modules/@esbuild/darwin-arm64/package.json",
+    "notices": [],
+    "directRuntime": false
+  },
+  {
+    "name": "@esbuild/darwin-arm64",
+    "version": "0.25.12",
+    "license": "MIT",
+    "package": "node_modules/vite/node_modules/@esbuild/darwin-arm64/package.json",
+    "notices": [],
+    "directRuntime": false
+  },
+  {
+    "name": "@fontsource-variable/geist",
+    "version": "5.3.0",
+    "license": "OFL-1.1",
+    "package": "node_modules/@fontsource-variable/geist/package.json",
+    "notices": ["licenses/geist-OFL.txt"],
+    "directRuntime": true
+  },
+  {
+    "name": "@rollup/rollup-darwin-arm64",
+    "version": "4.65.1",
+    "license": "MIT",
+    "package": "node_modules/@rollup/rollup-darwin-arm64/package.json",
+    "notices": [],
+    "directRuntime": false
+  },
+  {
+    "name": "@tweenjs/tween.js",
+    "version": "23.1.3",
+    "license": "MIT",
+    "package": "node_modules/@tweenjs/tween.js/package.json",
+    "notices": ["licenses/tweenjs-tween.js-LICENSE.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "@types/estree",
+    "version": "1.0.9",
+    "license": "MIT",
+    "package": "node_modules/@types/estree/package.json",
+    "notices": ["licenses/types-estree-LICENSE.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "@types/stats.js",
+    "version": "0.17.4",
+    "license": "MIT",
+    "package": "node_modules/@types/stats.js/package.json",
+    "notices": ["licenses/types-stats.js-LICENSE.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "@types/three",
+    "version": "0.183.1",
+    "license": "MIT",
+    "package": "node_modules/@types/three/package.json",
+    "notices": ["licenses/types-three-LICENSE.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "@types/webxr",
+    "version": "0.5.24",
+    "license": "MIT",
+    "package": "node_modules/@types/webxr/package.json",
+    "notices": ["licenses/types-webxr-LICENSE.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "@webgpu/types",
+    "version": "0.1.74",
+    "license": "BSD-3-Clause",
+    "package": "node_modules/@webgpu/types/package.json",
+    "notices": ["licenses/webgpu-types-LICENSE.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "esbuild",
+    "version": "0.28.2",
+    "license": "MIT",
+    "package": "node_modules/esbuild/package.json",
+    "notices": ["licenses/esbuild-LICENSE.md.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "esbuild",
+    "version": "0.25.12",
+    "license": "MIT",
+    "package": "node_modules/vite/node_modules/esbuild/package.json",
+    "notices": ["licenses/esbuild-LICENSE.md.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "fdir",
+    "version": "6.5.0",
+    "license": "MIT",
+    "package": "node_modules/fdir/package.json",
+    "notices": ["licenses/fdir-LICENSE.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "fflate",
+    "version": "0.8.3",
+    "license": "MIT",
+    "package": "node_modules/fflate/package.json",
+    "notices": ["licenses/fflate-LICENSE.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "fsevents",
+    "version": "2.3.3",
+    "license": "MIT",
+    "package": "node_modules/fsevents/package.json",
+    "notices": ["licenses/fsevents-LICENSE.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "lucide",
+    "version": "1.63.0",
+    "license": "ISC",
+    "package": "node_modules/lucide/package.json",
+    "notices": ["licenses/lucide-LICENSE.txt"],
+    "directRuntime": true
+  },
+  {
+    "name": "meshoptimizer",
+    "version": "1.0.1",
+    "license": "MIT",
+    "package": "node_modules/meshoptimizer/package.json",
+    "notices": ["licenses/meshoptimizer-LICENSE.md.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "nanoid",
+    "version": "3.3.20",
+    "license": "MIT",
+    "package": "node_modules/nanoid/package.json",
+    "notices": ["licenses/nanoid-LICENSE.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "picocolors",
+    "version": "1.1.1",
+    "license": "ISC",
+    "package": "node_modules/picocolors/package.json",
+    "notices": ["licenses/picocolors-LICENSE.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "picomatch",
+    "version": "4.0.7",
+    "license": "MIT",
+    "package": "node_modules/picomatch/package.json",
+    "notices": ["licenses/picomatch-LICENSE.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "postcss",
+    "version": "8.5.32",
+    "license": "MIT",
+    "package": "node_modules/postcss/package.json",
+    "notices": ["licenses/postcss-LICENSE.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "prettier",
+    "version": "3.9.10",
+    "license": "MIT",
+    "package": "node_modules/prettier/package.json",
+    "notices": ["licenses/prettier-LICENSE.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "rollup",
+    "version": "4.65.1",
+    "license": "MIT",
+    "package": "node_modules/rollup/package.json",
+    "notices": ["licenses/rollup-LICENSE.md.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "source-map-js",
+    "version": "1.2.2",
+    "license": "BSD-3-Clause",
+    "package": "node_modules/source-map-js/package.json",
+    "notices": ["licenses/source-map-js-LICENSE.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "three",
+    "version": "0.186.1",
+    "license": "MIT",
+    "package": "node_modules/three/package.json",
+    "notices": ["licenses/three-LICENSE.txt"],
+    "directRuntime": true
+  },
+  {
+    "name": "tinyglobby",
+    "version": "0.2.17",
+    "license": "MIT",
+    "package": "node_modules/tinyglobby/package.json",
+    "notices": ["licenses/tinyglobby-LICENSE.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "tsx",
+    "version": "4.23.15",
+    "license": "MIT",
+    "package": "node_modules/tsx/package.json",
+    "notices": ["licenses/tsx-LICENSE.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "typescript",
+    "version": "5.9.3",
+    "license": "Apache-2.0",
+    "package": "node_modules/typescript/package.json",
+    "notices": ["licenses/typescript-LICENSE.txt.txt"],
+    "directRuntime": false
+  },
+  {
+    "name": "vite",
+    "version": "6.4.5",
+    "license": "MIT",
+    "package": "node_modules/vite/package.json",
+    "notices": ["licenses/vite-LICENSE.md.txt"],
+    "directRuntime": false
+  }
+]
